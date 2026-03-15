@@ -81,9 +81,4 @@ FSIWsim (
 
 ## Contact
 
-If you have any questions, please do not hesitate to contact us at
-<dengyaling@stu.cdutcm.edu.cn> or <kaifenghu@cdutcm.edu.cn>
-
-
-Contact
 If you need the database or have any questions, please do not hesitate to contact us at dengyaling@stu.cdutcm.edu.cn or kaifenghu@cdutcm.edu.cn
