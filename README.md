@@ -44,7 +44,7 @@ FSIWsim provides a robust and efficient tool for the rapid and reliable identifi
 
 9. “parallel”: Logical, whether to use parallel processing (default: TRUE)
 
-10. “n_core”: Number of cores to use for parallel processing. If NULL, uses total cores - 2 (default: NULL)
+10. “n_cores”: Number of cores to use for parallel processing. If NULL, uses total cores - 2 (default: NULL)
 
 ## Workflow for the calculating similarity between experimental MS/MS spectra and reference database spectra through FSIWsim
 
